@@ -1,5 +1,5 @@
 # sema-linux 4.4.0
-This is the repository for unified sema linux supporting TIVA BMC and EC
+This is the repository for unified sema linux supporting TIVA BMC and IT5121 EC
 
 ### Supported Hardware List:
 * LEC-EL,LEC-ALN/ASL
