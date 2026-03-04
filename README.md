@@ -13,12 +13,8 @@ This is the repository for unified sema linux supporting TIVA BMC and IT5121 EC
 * cExpress-R8
 
 ### Supported Operating System:
-* Ubuntu 18.04, 20.04, 22.04, 24.04
-* Debian all versions
-* CentOS 
-* SuSE Linux
-* Red Hat 9.0/9.4
-
+* Ubuntu 20.04, 24.04
+  
 ### Installation Guide
 Refer: https://www.adlinktech.com/Products/Download.ashx?type=MDownload&isManual=yes&file=1274%5cSEMA_EC_Installation_Guide_Linux_1v1.pdf
 
