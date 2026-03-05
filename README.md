@@ -1,16 +1,16 @@
 # sema-linux 4.4.0
-This is the repository for unified sema linux supporting TIVA BMC and EC
+This is the common repository for unified sema linux supporting TIVA BMC and EC
 
 ### SEMA Overview:
-*SEMA (Smart Embedded Management Agent) is a unified and extensible software framework designed for ADLINK embedded platforms.
+* SEMA (Smart Embedded Management Agent) is a unified and extensible software framework designed for ADLINK embedded platforms.
 
-*Implements the PICMG Embedded API (EAPI) specification that interacts with hardware consistently across different platforms.
+* Implements the PICMG Embedded API (EAPI) specification that interacts with hardware consistently across different platforms.
 
-*Acts as a bridge between the hardware's Board Management Controller (BMC) or EC and the operating system.
+* Acts as a bridge between the hardware's Board Management Controller (BMC) or EC and the operating system.
 
-*Provides standardized access to board-level hardware features such as sensors, i2c, thermal, GPIO, and watchdog.
+* Provides standardized access to board-level hardware features such as sensors, i2c, thermal, GPIO, and watchdog.
 
-*Provides key features such as Hardware Monitoring, Board Information, GPIO acess Control, Fan Control, I2C Control and WDT management.
+* Provides key features such as Hardware Monitoring, Board Information, GPIO acess Control, Fan Control, I2C Control and WDT management.
 
 ### Supported Hardware List:
 * cExpress-TL , cExpress-EL, cExpress-AR, cExpress-ALN, cExpress-MTL
