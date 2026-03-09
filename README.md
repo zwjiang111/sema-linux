@@ -1,7 +1,7 @@
 # sema-linux 4.4.0
 This is the common repository for unified sema linux supporting TIVA BMC and EC
 
-### SEMA Overview:
+## SEMA Overview
 * SEMA (Smart Embedded Management Agent) is a unified and extensible software framework designed for ADLINK embedded platforms.
 
 * Implements the PICMG Embedded API (EAPI) specification that interacts with hardware consistently across different platforms.
@@ -12,7 +12,7 @@ This is the common repository for unified sema linux supporting TIVA BMC and EC
 
 * Provides key features such as Hardware Monitoring, Board Information, GPIO acess Control, Fan Control, I2C Control and WDT management.
 
-### Repo Files Overview:
+## Repo Files Overview
 
 * app – Contains the main user-space application used to access and demonstrate SEMA functionality.
 * driver – Linux kernel driver source implementing low-level hardware control such as GPIO, I²C, watchdog, backlight, and board information.
@@ -27,7 +27,7 @@ This is the common repository for unified sema linux supporting TIVA BMC and EC
 * README.md – Documentation describing the project overview, build steps, and usage instructions.
 * x509.genkey – OpenSSL configuration file used to generate X.509 keys for Secure Boot kernel module signing.
  
-### Supported Hardware List:
+## Supported Hardware List
 * cExpress-TL , cExpress-EL, cExpress-AR, cExpress-ALN, cExpress-MTL
 * cExpress-AL, cExpress-SL, cExpress-KL, cExpress-WL
 * Express-ID7, Express-ADP, Express-TL, Express-ADP
@@ -37,14 +37,15 @@ This is the common repository for unified sema linux supporting TIVA BMC and EC
 * NanoX-BT
 * Express-VR7
   
-### Supported Operating System:
+## Supported Operating System
 * Ubuntu 20.04, 24.04
 
-### Documents
+## Documents
 Refer to this ([link](https://www.adlinktech.com/Products/DownloadMDownload?lang=en&pdNo=1274&MainCategory=Industrial_IoT_and_Cloud_solutions&kind=M)) to see the following guides,
 - SEMA Linux Installation Guide
 - SEMA Linux App User Guide
 - SEMA Linux EAPI Guide
+
 
 
 
