@@ -41,9 +41,10 @@ This is the common repository for unified sema linux supporting TIVA BMC and EC
 * Ubuntu 20.04, 24.04
 
 ### Documents
-Refer to this [link]([url](https://www.adlinktech.com/Products/DownloadMDownload?lang=en&pdNo=1274&MainCategory=Industrial_IoT_and_Cloud_solutions&kind=M)) to see the following guides
+Refer to this ([link](https://www.adlinktech.com/Products/DownloadMDownload?lang=en&pdNo=1274&MainCategory=Industrial_IoT_and_Cloud_solutions&kind=M)) to see the following guides,
 - SEMA Linux Installation Guide
 - SEMA Linux App User Guide
 - SEMA Linux EAPI Guide
+
 
 
